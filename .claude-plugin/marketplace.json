@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "sefhi-plugins",
+  "owner": {
+    "name": "sefhi"
+  },
+  "description": "Plugins personales de sefhi para Claude Code: hooks, comandos y skills reutilizables.",
+  "plugins": [
+    {
+      "name": "statusline",
+      "source": "./plugins/statusline",
+      "description": "Status line con rama git, diff stats, coste de la sesion y barra de contexto.",
+      "category": "productivity",
+      "keywords": ["statusline", "git", "context", "cost"]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "statusline",
+  "version": "0.1.0",
+  "description": "Status line para Claude Code: rama git, diff stats, coste de sesion y barra de contexto con porcentaje.",
+  "author": {
+    "name": "sefhi"
+  },
+  "license": "MIT",
+  "keywords": ["statusline", "git", "context", "cost", "tokens"]
+}
